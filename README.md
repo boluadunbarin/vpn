@@ -64,7 +64,7 @@ Check google.com. Notice the Japanese content
 
 ![Screenshot 2024-02-02 125737](https://github.com/boluadunbarin/vpn/assets/157642328/a4dc5c72-b1b1-4bf1-9261-e50afebd689c)    [3]
 
-Check disney.com. Notice the Japanese content
+Check disney.co.jp. Notice the Japanese content
  
 ![Screenshot 2024-02-02 130008](https://github.com/boluadunbarin/vpn/assets/157642328/7f13843b-b419-47f8-a44d-7f8bd716d72a)    [4]
 
@@ -97,7 +97,7 @@ Note: Proton VPN was not downloaded into the VM (step 5 in the simple list). Ins
 References
 [1] Retreived from https://www.whatismyipaddress.com
 [2] Retrieved from https://www.google.com
-[3] Retrieved from https://www.disney.com
+[3] Retrieved from https://www.disney.co.jp
 [4] Retrievded from https://www.amazon.com
 [5]Wikipedia. (n.d.). Wikipedia. Retrieved from Virtual Private Networks: https://en.wikipedia.org/wiki/Virtual_private_network
 [6]Author: OpenAI Title: 
