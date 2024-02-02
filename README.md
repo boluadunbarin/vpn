@@ -61,3 +61,13 @@ log into proton vpn and connect to a server in another country
 
 Go to whatismyipaddress.com and look an the new ip address. It'll be from the country you connect to
 
+<h2>Demonstration </h2>
+
+Uses for VPN:
+
+- File sharing: One can access company specific content in this environment. This can be beneficial when transfering or sharing data within a company.
+- View material that may be censored, essentially bypassing government restrictions. 
+
+- Privacy: VPNs mask one's ip address making it harder for websites to monitor one's online activity/
+anonymous internet activity:
+Access content that is geographically based: if one wants to access services from another country.
