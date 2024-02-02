@@ -25,7 +25,7 @@ Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
 - Install proton vpn and use it to connect to a server somewhere else on the planet
 - Check your ip address
 
-<h2>Actions and Observations</h2>
+<h2>Media(images)</h2>
 
 ![Screenshot 2024-02-02 110352](https://github.com/boluadunbarin/vpn/assets/157642328/c674a478-04cb-47b7-9088-91ef67770da7)
 
