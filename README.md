@@ -60,6 +60,18 @@ Log into Proton VPN and connect to a server in another country
 
 Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you connect to
 
+![Screenshot 2024-02-02 125544](https://github.com/boluadunbarin/vpn/assets/157642328/d86e773a-b26a-4d0d-a70d-b5c669ef1b84)
+
+Check google.com. Notice the Japanese content
+
+![Screenshot 2024-02-02 125737](https://github.com/boluadunbarin/vpn/assets/157642328/a4dc5c72-b1b1-4bf1-9261-e50afebd689c)
+
+Check disney.com. Notice the Japanese content
+
+![Screenshot 2024-02-02 130008](https://github.com/boluadunbarin/vpn/assets/157642328/7f13843b-b419-47f8-a44d-7f8bd716d72a)
+
+Check amazon.com. Notice the shipping is for Japanese regions.
+
 <h2>Demonstration </h2>
 
 Uses for VPN:
