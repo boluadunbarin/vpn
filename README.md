@@ -76,12 +76,23 @@ Check amazon.com. Notice the delivery section changed to Japan.
 
 Uses for VPN:
 
+-![vpn office](https://github.com/boluadunbarin/vpn/assets/157642328/539403c9-5854-4007-bd64-d9384b6621b7)
+-
 - File sharing: You can access company specific content in this environment. This can be beneficial when transfering or sharing data over the internet to a remote location.
+
+- 
 - View material that may be censored, essentially bypassing government restrictions. 
 
 - Privacy: VPNs mask your ip address making it harder for websites to monitor your online activity/
 anonymous internet activity.
+
+![globe](https://github.com/boluadunbarin/vpn/assets/157642328/5158a569-9cfe-49f8-932d-c8df19785011)
+
 - Access content that is geographically based: if you want to access services from another country.
+-
+-![cybersec](https://github.com/boluadunbarin/vpn/assets/157642328/778b3b34-238a-4895-a9b3-ba2566b66f22)
+-
 - VPNs can also shield you from cyber threats, safeguarding sensitive data.
+- 
 
 Note: Proton VPN was not downloaded into the VM (step 5 in the simple list). Instead it was downloaded into the main computer and used in that environment.
