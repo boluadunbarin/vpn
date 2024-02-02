@@ -82,5 +82,4 @@ Uses for VPN:
 - Privacy: VPNs mask your ip address making it harder for websites to monitor your online activity/
 anonymous internet activity.
 - Access content that is geographically based: if you want to access services from another country.
-
--VPNs can also shield you from cyber threats, safeguarding sensitive data.
+- VPNs can also shield you from cyber threats, safeguarding sensitive data.
