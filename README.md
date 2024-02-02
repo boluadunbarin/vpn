@@ -80,8 +80,8 @@ Uses for VPN:
  
 - View material that may be censored, essentially bypassing government restrictions. [6]
 
-- Privacy: VPNs mask your IP address making it harder for websites to monitor your online activity/
-anonymous internet activity.[6]
+- Privacy: VPNs mask your IP address making it harder for websites to monitor your online activity, making
+internet activity anonymous [6].
 
 ![globe](https://github.com/boluadunbarin/vpn/assets/157642328/51c614e4-667f-4ed6-a9a9-8d76f406b788)[7]
 
