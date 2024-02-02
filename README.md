@@ -35,34 +35,27 @@ Create a resource group for another country
 
 ![Screenshot 2024-02-02 111237](https://github.com/boluadunbarin/vpn/assets/157642328/52f7f90a-9d45-4507-bfc5-41c74e7e7d8d)
 
-create a virtual computer and network for the same country as above
-
 ![Screenshot 2024-02-02 111625](https://github.com/boluadunbarin/vpn/assets/157642328/3481fcfe-23ff-47ef-b253-96499e4c00e7)
 
+create a virtual computer and network for the same country as above
 
+![Screenshot 2024-02-02 112137](https://github.com/boluadunbarin/vpn/assets/157642328/2a6f1322-f316-4c3d-91b7-391ca26ad70f)
 
+log into remote desktop as the user
 
+![51](https://github.com/boluadunbarin/vpn/assets/157642328/378666bc-b3ba-4d0f-97fe-438d762df3f0)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you chose earlier.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-02-02 113138](https://github.com/boluadunbarin/vpn/assets/157642328/24df4fe5-09b6-4ff0-8285-a444219f23b1)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Download and install proton vpn on your main computer
+
+![Screenshot 2024-02-02 113455](https://github.com/boluadunbarin/vpn/assets/157642328/ff6cd836-e114-497c-a86d-0ebc53c67be8)
+
+log into proton vpn and connect to a server in another country
+
+![Screenshot 2024-02-02 113641](https://github.com/boluadunbarin/vpn/assets/157642328/b919922c-9ade-45f3-b546-e7e0d770599e)
+
+Go to whatismyipaddress.com and look an the new ip address. It'll be from the country you connect to
+
