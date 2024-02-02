@@ -18,15 +18,15 @@
 <h2>High-Level Steps</h2>
 
 - Create a windows 10 virtual computer
-- Check the ip address of your main computer and that of the virtual computer
+- Check the IP address of your main computer and that of the virtual computer
 - Install Proton VPN and use it to connect to a server somewhere else on the planet
-- Check your ip address and several websites to notice the change in language and other details in the websites
+- Check your IP address and several websites to notice the change in language and other details in the websites
 
 <h2>Media(images)</h2>
 
 ![Screenshot 2024-02-02 110352](https://github.com/boluadunbarin/vpn/assets/157642328/c674a478-04cb-47b7-9088-91ef67770da7)    [1]
 
-Go to whatismyipaddress.com to see your public ip address
+Go to whatismyipaddress.com to see your public IP address
 
 ![Screenshot 2024-02-02 110639](https://github.com/boluadunbarin/vpn/assets/157642328/e9e5d95d-5133-4d21-adfd-d297ba2c7a17)
 
@@ -44,7 +44,7 @@ Log into remote desktop as the user
 
 ![51](https://github.com/boluadunbarin/vpn/assets/157642328/378666bc-b3ba-4d0f-97fe-438d762df3f0)     [1]
 
-Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you chose earlier. 
+Go to whatismyipaddress.com and look at the new IP address. It'll be from the country you chose earlier. 
 
 ![Screenshot 2024-02-02 123025](https://github.com/boluadunbarin/vpn/assets/157642328/b92a0d42-fae7-406a-844c-b4801b8acc5e)
 
@@ -56,7 +56,7 @@ Log into Proton VPN and connect to a server in another country
 
 ![Screenshot 2024-02-02 113641](https://github.com/boluadunbarin/vpn/assets/157642328/b919922c-9ade-45f3-b546-e7e0d770599e)       [1]
 
-Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you connect to
+Go to whatismyipaddress.com and look at the new IP address. It'll be from the country you connect to
  
 ![Screenshot 2024-02-02 125544](https://github.com/boluadunbarin/vpn/assets/157642328/d86e773a-b26a-4d0d-a70d-b5c669ef1b84)  [2]
 
@@ -80,7 +80,7 @@ Uses for VPN:
  
 - View material that may be censored, essentially bypassing government restrictions. [6]
 
-- Privacy: VPNs mask your ip address making it harder for websites to monitor your online activity/
+- Privacy: VPNs mask your IP address making it harder for websites to monitor your online activity/
 anonymous internet activity.[6]
 
 ![globe](https://github.com/boluadunbarin/vpn/assets/157642328/51c614e4-667f-4ed6-a9a9-8d76f406b788)[7]
