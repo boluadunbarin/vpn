@@ -70,7 +70,7 @@ Check disney.com. Notice the Japanese content
 
 ![Screenshot 2024-02-02 130008](https://github.com/boluadunbarin/vpn/assets/157642328/7f13843b-b419-47f8-a44d-7f8bd716d72a)
 
-Check amazon.com. Notice the shipping is for Japanese regions.
+Check amazon.com. Notice the delivery section changed to Japan.
 
 <h2>Demonstration </h2>
 
