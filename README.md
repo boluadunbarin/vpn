@@ -8,9 +8,9 @@
 <h2>Project Summary: Environments and Technologies Used</h2>
 -In this tutorial, we observe how VPNs work, using virtual machines and Proton VPN. We will understand how to 'sit' at a server across the planet. This can be used to mask your identity. We will also see how VPNs can filter content that appears as you browse the web.
  
-<h3> </h3>-Languages used: Text file
+<h3> </h3>-Languages used:N/A
 <h4></h4>- Environments used: Microsoft Azure, Windows 10, foreign servers, remote desktop
-<h5></h5>-Technology/Applications/Services: Azure Virtual Machines, Proton VPN, whatismyipaddress.com, google.com, disney.com, amazon.com
+<h5></h5>-Technology/Applications/Services: Text file, Azure Virtual Machines, Proton VPN, whatismyipaddress.com, google.com, disney.com, amazon.com
 
 <h2>Operating Systems Used </h2>
 
