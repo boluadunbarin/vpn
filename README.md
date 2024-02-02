@@ -83,3 +83,5 @@ Uses for VPN:
 anonymous internet activity.
 - Access content that is geographically based: if you want to access services from another country.
 - VPNs can also shield you from cyber threats, safeguarding sensitive data.
+
+Note: Proton VPN was not downloaded into the VM (step 5 in the simple list). Instead it was downloaded into the main computer and used in that environment.
