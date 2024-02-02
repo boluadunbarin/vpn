@@ -22,7 +22,7 @@ Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
 - Create a windows 10 virtual computer
 - Check the ip address of your main computer and that of the virtual computer
 - Install Proton VPN and use it to connect to a server somewhere else on the planet
-- Check your ip address
+- Check your ip address and several websites to notice the change in source country of your internet searches
 
 <h2>Media(images)</h2>
 
