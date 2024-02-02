@@ -20,10 +20,10 @@ Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
 - Windows 10 (21H2)
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a windows 10 virtual computer
+- Check the ip address of your main computer and that of the virtual computer
+- Install proton vpn and use it to connect to a server somewhere else on the planet
+- Check your ip address
 
 <h2>Actions and Observations</h2>
 
