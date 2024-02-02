@@ -74,23 +74,34 @@ Check amazon.com. Notice the delivery section changed to Japan.
 
 Uses for VPN:
 
--![vpn office](https://github.com/boluadunbarin/vpn/assets/157642328/539403c9-5854-4007-bd64-d9384b6621b7)
+-![vpn office](https://github.com/boluadunbarin/vpn/assets/157642328/539403c9-5854-4007-bd64-d9384b6621b7)[3]
 
-- File sharing: You can access company specific content in this environment. This can be beneficial when transfering or sharing data over the internet to a remote location.
+- File sharing: You can access company specific content in this environment. This can be beneficial when transfering or sharing data over the internet to a remote location.[4]
 
  
-- View material that may be censored, essentially bypassing government restrictions. 
+- View material that may be censored, essentially bypassing government restrictions. [4]
 
 - Privacy: VPNs mask your ip address making it harder for websites to monitor your online activity/
-anonymous internet activity.
+anonymous internet activity.[4]
 
-![globe](https://github.com/boluadunbarin/vpn/assets/157642328/51c614e4-667f-4ed6-a9a9-8d76f406b788)
+![globe](https://github.com/boluadunbarin/vpn/assets/157642328/51c614e4-667f-4ed6-a9a9-8d76f406b788)[2]
 
-- Access content that is geographically based: if you want to access services from another country.
+- Access content that is geographically based: if you want to access services from another country[4].
 
--![cybersec](https://github.com/boluadunbarin/vpn/assets/157642328/778b3b34-238a-4895-a9b3-ba2566b66f22)
+-![cybersec](https://github.com/boluadunbarin/vpn/assets/157642328/778b3b34-238a-4895-a9b3-ba2566b66f22)[1]
 
-- VPNs can also shield you from cyber threats, safeguarding sensitive data.
+- VPNs can also shield you from cyber threats, safeguarding sensitive data [4].
   
 
 Note: Proton VPN was not downloaded into the VM (step 5 in the simple list). Instead it was downloaded into the main computer and used in that environment.
+
+References
+[1]Denham, E. (n.d.). GOGETSECURE. Retrieved from https://www.bing.com/images/search?view=detailV2&ccid=HYo5d4Y2&id=EDE061D3CB79FBB98586B7534A68CAFAC1DE298A&thid=OIP.HYo5d4Y2eIWuVJPmA2yvmAHaDt&mediaurl=https%3a%2f%2fgogetsecure.com%2fwp-content%2fuploads%2f2022%2f05%2fcyber-security-quotes_data-protectio
+[2]nationsonline.org. (n.d.). Physical Map of the World. Retrieved from nationsonline: https://www.nationsonline.org/oneworld/map/physical_world_map.htm
+[3]Wikipedia. (n.d.). Wikipedia. Retrieved from Virtual Private Networks: https://en.wikipedia.org/wiki/Virtual_private_network
+[4]Author: OpenAI Title: 
+   ChatGPT (How to use VPNs)
+   URL: https://www.openai.com/research/chatgpt
+
+
+
