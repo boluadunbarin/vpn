@@ -40,7 +40,7 @@ Create a resource group for another country
 
 Create a virtual computer and network for the same country as above
 
-![Screenshot 2024-02-02 112137](https://github.com/boluadunbarin/vpn/assets/157642328/2a6f1322-f316-4c3d-91b7-391ca26ad70f)
+![Screenshot 2024-02-02 123539](https://github.com/boluadunbarin/vpn/assets/157642328/1c548faf-9744-405e-8e5f-5176df027303)
 
 Log into remote desktop as the user
 
