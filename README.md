@@ -7,7 +7,9 @@
 
 <h2>Project Summary: Environments and Technologies Used</h2>
 -In this tutorial, we observe how vpns work. We will understand how to 'sit' at a server anywhere on the planet. This can be used to mask your identity. We will also see how vpns can filter content that appears as you browse the web.
-- Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
+- 
+<h3> </h3>
+Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
 - Remote Desktop
 - Text file,
 - Proton VPN
