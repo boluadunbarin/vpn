@@ -12,7 +12,7 @@
 Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
 -<h4></h4> Remote Desktop
 -<h5></h5> Text file,
-- <h6></h6>Proton VPN
+-<h6></h6>Proton VPN
 
 - <h7></h7>https://whatismyipaddress.com, google.com, disney.com, amazon.com
 
