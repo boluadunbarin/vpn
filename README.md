@@ -48,11 +48,11 @@ Log into remote desktop as the user
 
 Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you chose earlier.
 
-![Screenshot 2024-02-02 113138](https://github.com/boluadunbarin/vpn/assets/157642328/24df4fe5-09b6-4ff0-8285-a444219f23b1)
-
-Download and install Proton VPN on your main computer
+![Screenshot 2024-02-02 123025](https://github.com/boluadunbarin/vpn/assets/157642328/b92a0d42-fae7-406a-844c-b4801b8acc5e)
 
 ![Screenshot 2024-02-02 113455](https://github.com/boluadunbarin/vpn/assets/157642328/ff6cd836-e114-497c-a86d-0ebc53c67be8)
+
+Download and install Proton VPN on your main computer
 
 Log into Proton VPN and connect to a server in another country
 
