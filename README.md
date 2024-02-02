@@ -6,14 +6,14 @@
 
 
 <h2>Project Summary: Environments and Technologies Used</h2>
--In this tutorial, we observe how vpns work. We will understand how to 'sit' at a server anywhere on the planet. This can be used to mask your identity. We will also see how vpns can filter content that appears as you browse the web.
+-In this tutorial, we observe how vpns work. We will understand how to 'sit' at a server anywhere on the planet. This can be used to mask your identity. We will also see how vpns can filter content that appears as you browse the web.;
 - 
 <h3> </h3>
-Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country
-- Remote Desktop
-- Text file,
-- Proton VPN
-- https://whatismyipaddress.com, google.com, disney.com, amazon.com
+Microsoft Azure (Virtual Machines/Compute) with Windows 10 in a foreign country;
+- Remote Desktop;
+- Text file,;
+- Proton VPN;
+- https://whatismyipaddress.com, google.com, disney.com, amazon.com;
 
 <h2>Operating Systems Used </h2>
 
