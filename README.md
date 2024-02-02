@@ -86,7 +86,7 @@ Uses for VPN:
 - Privacy: VPNs mask your ip address making it harder for websites to monitor your online activity/
 anonymous internet activity.
 
-![globe](https://github.com/boluadunbarin/vpn/assets/157642328/5158a569-9cfe-49f8-932d-c8df19785011)
+![globe](https://github.com/boluadunbarin/vpn/assets/157642328/08a07678-2117-4ccd-9d1f-fd67807feb62)
 
 - Access content that is geographically based: if you want to access services from another country.
 
