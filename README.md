@@ -42,9 +42,9 @@ Create a virtual computer and network for the same country as above
 
 Log into remote desktop as the user
 
-![51](https://github.com/boluadunbarin/vpn/assets/157642328/378666bc-b3ba-4d0f-97fe-438d762df3f0)
+![51](https://github.com/boluadunbarin/vpn/assets/157642328/378666bc-b3ba-4d0f-97fe-438d762df3f0)     [1]
 
-Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you chose earlier. [1]
+Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you chose earlier. 
 
 ![Screenshot 2024-02-02 123025](https://github.com/boluadunbarin/vpn/assets/157642328/b92a0d42-fae7-406a-844c-b4801b8acc5e)
 
@@ -54,21 +54,21 @@ Download and install Proton VPN on your main computer
 
 Log into Proton VPN and connect to a server in another country
 
-![Screenshot 2024-02-02 113641](https://github.com/boluadunbarin/vpn/assets/157642328/b919922c-9ade-45f3-b546-e7e0d770599e)
+![Screenshot 2024-02-02 113641](https://github.com/boluadunbarin/vpn/assets/157642328/b919922c-9ade-45f3-b546-e7e0d770599e)       [1]
 
-Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you connect to [1]
+Go to whatismyipaddress.com and look at the new ip address. It'll be from the country you connect to
  
-![Screenshot 2024-02-02 125544](https://github.com/boluadunbarin/vpn/assets/157642328/d86e773a-b26a-4d0d-a70d-b5c669ef1b84)
+![Screenshot 2024-02-02 125544](https://github.com/boluadunbarin/vpn/assets/157642328/d86e773a-b26a-4d0d-a70d-b5c669ef1b84)  [2]
 
-Check google.com. Notice the Japanese content [2]
+Check google.com. Notice the Japanese content
 
-![Screenshot 2024-02-02 125737](https://github.com/boluadunbarin/vpn/assets/157642328/a4dc5c72-b1b1-4bf1-9261-e50afebd689c)
+![Screenshot 2024-02-02 125737](https://github.com/boluadunbarin/vpn/assets/157642328/a4dc5c72-b1b1-4bf1-9261-e50afebd689c)    [3]
 
-Check disney.com. Notice the Japanese content [3]
+Check disney.com. Notice the Japanese content
  
-![Screenshot 2024-02-02 130008](https://github.com/boluadunbarin/vpn/assets/157642328/7f13843b-b419-47f8-a44d-7f8bd716d72a)
+![Screenshot 2024-02-02 130008](https://github.com/boluadunbarin/vpn/assets/157642328/7f13843b-b419-47f8-a44d-7f8bd716d72a)    [4]
 
-Check amazon.com. Notice the delivery section changed to Japan [4].
+Check amazon.com. Notice the delivery section changed to Japan 
 
 <h2>Demonstration </h2>
 
